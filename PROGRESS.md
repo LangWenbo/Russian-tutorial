@@ -16,15 +16,15 @@
 ## Where I am now
 
 * **Stage:** 0 — Alphabet & Sounds
-* **Current lesson:** [Lesson 1 — First Five Letters](lessons/stage-0-alphabet/01-first-five-letters.md)
-* **Status:** in progress (started 2026-10-03)
-* **Letters known:** — (target after Lesson 1: А К М О Т)
+* **Current lesson:** [Lesson 2 — The False Friends](lessons/stage-0-alphabet/02-false-friends.md)
+* **Status:** Lesson 1 completed 2026-10-03; Lesson 2 starting
+* **Letters known:** А К М О Т
 
 ## Lesson checklist
 
 ### Stage 0 — Alphabet & Sounds
 
-- [ ] [01 — First Five Letters](lessons/stage-0-alphabet/01-first-five-letters.md)
+- [x] [01 — First Five Letters](lessons/stage-0-alphabet/01-first-five-letters.md)
 - [ ] [02 — The False Friends](lessons/stage-0-alphabet/02-false-friends.md)
 - [ ] [03 — New Shapes, Familiar Sounds](lessons/stage-0-alphabet/03-new-shapes-familiar-sounds.md)
 - [ ] [04 — Vowels, Hard & Soft](lessons/stage-0-alphabet/04-hard-and-soft-vowels.md)
@@ -57,7 +57,8 @@ _(Stages 2–5: see ROADMAP; rows are added here as each stage begins.)_
 
 | Date | Lesson | Result / notes |
 |---|---|---|
-| 2026-10-03 | 01 — First Five Letters | started · Round 1: 6/7 (wrote the respelling instead of Cyrillic for *ма́ма*) · Round 2: translation & stress ✓; mixed up **там/как** and wrote **кат** for **кот**; 3 voice recordings stored (see `recordings/`) |
+| 2026-10-03 | 01 — First Five Letters | **completed** — Round 3: 3/3 ✓ (там, кот, ма́ма там., matching) · Round 1: 6/7 (wrote the respelling instead of Cyrillic for *ма́ма*) · Round 2: translation & stress ✓; mixed up **там/как** and wrote **кат** for **кот**; 3 voice recordings stored (see `recordings/`) |
+| 2026-10-03 | 02 — The False Friends | started |
 
 ## Review queue
 
@@ -65,7 +66,11 @@ _Each completed lesson is scheduled at +1, +3, +7, +14, +30 days. Format: due da
 
 | Due | Review item | Source | Step |
 |---|---|---|:-:|
-| _(empty — first entries are added when Lesson 1 is completed)_ | | | |
+| 2026-10-04 | L1: letters **А К М О Т**; words **ма́ма, там, так, как, кто, кот, мак, том, акт, а**; **Там ма́ма.** / **Кто там?** — *priority re-test:* **там/как**, **кот** | Lesson 1 | 1 |
+| 2026-10-06 | L1: same set, English → Cyrillic (production) | Lesson 1 | 2 |
+| 2026-10-10 | L1: same set | Lesson 1 | 3 |
+| 2026-10-17 | L1: same set | Lesson 1 | 4 |
+| 2026-11-02 | L1: same set | Lesson 1 | 5 |
 
 ## Weak spots / error log
 
@@ -73,9 +78,9 @@ _Tutor adds recurring mistakes here with the date, then re-tests them._
 
 | Date | Item | Mistake | Status |
 |---|---|---|---|
-| 2026-10-03 | там / как | Wrote **как** ("how") for "there" — swapped the two | open |
-| 2026-10-03 | кот | Wrote **кат** — **а** instead of **о** | open |
-| 2026-10-03 | Cyrillic output | Answered in Latin respelling (*MA-ma*) instead of **ма́ма** | open — Cyrillic expected from Lesson 4 |
+| 2026-10-03 | там / как | Wrote **как** ("how") for "there" — swapped the two | fixed in round 3 — re-test at +1 day |
+| 2026-10-03 | кот | Wrote **кат** — **а** instead of **о** | fixed in round 3 — re-test at +1 day |
+| 2026-10-03 | Cyrillic output | Answered in Latin respelling (*MA-ma*) instead of **ма́ма** | fixed — typing Cyrillic from round 2 on |
 
 ## Voice recordings
 
@@ -91,4 +96,5 @@ Pronunciation baseline recorded 2026-10-03 (Lesson 1). Files and log: [`recordin
 _Tutor's free-form notes: learner preferences, pace, things that worked, things to revisit._
 
 * 2026-10-03 — Course set up. Learner starts with Lesson 1.
-* 2026-10-03 — Learner records voice answers (m4a). Repo is public → audio not committed pending approval.
+* 2026-10-03 — Learner records voice answers (m4a). Repo is public → audio not committed pending approval (options A private+push / B push public / C keep local were offered; no answer yet).
+* 2026-10-03 — Learner types Cyrillic readily (even stress marks) and gives good full-sentence translations. Common slip: swapping similar-looking words (**там/как**, **кот/кат**) — re-test these.
