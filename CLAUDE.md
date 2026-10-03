@@ -74,7 +74,14 @@ Each completed lesson is scheduled for review at **+1, +3, +7, +14, +30 days**. 
 * Push with `git push -u origin <branch>`; retry network failures with exponential backoff.
 * **Always commit and push `PROGRESS.md` at the end of a session** — the cloud container is temporary, and the learner's progress lives in git.
 
-## 8. Quick reference for slash commands
+## 8. Voice recordings
+
+* The learner may send audio recordings (`.m4a`). Save them under `recordings/stage-<N>/` using the naming scheme in `recordings/README.md` and add a row to its **Log** table.
+* **You cannot judge pronunciation from audio here** (no speech models are reachable and you can't listen). Verify only what you can (file validity, duration, levels), say plainly that you haven't assessed the accent, and give the learner the self-check method in `recordings/README.md`. Never invent feedback about how they sound.
+* **The repository may be public** — check with `mcp__github__search_repositories` (`repo:<owner>/<name>`, `private` field) before committing audio. **Do not commit or push audio without the learner's explicit approval after telling them the visibility.** Audio is excluded locally via `.git/info/exclude`; remove those lines only when the learner approves.
+* Ask for benchmark recordings at Lesson 1, at the Stage 0 checkpoint (Lesson 9) and at the end of each stage so they can be compared.
+
+## 9. Quick reference for slash commands
 
 * `/lesson` — teach the next lesson (or `/lesson 4` for a specific one)
 * `/review` — run a spaced-repetition review session from the queue

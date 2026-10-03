@@ -57,7 +57,7 @@ _(Stages 2–5: see ROADMAP; rows are added here as each stage begins.)_
 
 | Date | Lesson | Result / notes |
 |---|---|---|
-| 2026-10-03 | 01 — First Five Letters | started |
+| 2026-10-03 | 01 — First Five Letters | started · Round 1: 6/7 (wrote the respelling instead of Cyrillic for *ма́ма*) · Round 2: translation & stress ✓; mixed up **там/как** and wrote **кат** for **кот**; 3 voice recordings stored (see `recordings/`) |
 
 ## Review queue
 
@@ -73,7 +73,13 @@ _Tutor adds recurring mistakes here with the date, then re-tests them._
 
 | Date | Item | Mistake | Status |
 |---|---|---|---|
-| | | | |
+| 2026-10-03 | там / как | Wrote **как** ("how") for "there" — swapped the two | open |
+| 2026-10-03 | кот | Wrote **кат** — **а** instead of **о** | open |
+| 2026-10-03 | Cyrillic output | Answered in Latin respelling (*MA-ma*) instead of **ма́ма** | open — Cyrillic expected from Lesson 4 |
+
+## Voice recordings
+
+Pronunciation baseline recorded 2026-10-03 (Lesson 1). Files and log: [`recordings/README.md`](recordings/README.md). The tutor can't listen to audio here, so progress is judged by *your* comparison with native audio (checklist in that README). Audio stays local until you approve publishing (repo is public).
 
 ## Vocabulary
 
@@ -85,3 +91,4 @@ _Tutor adds recurring mistakes here with the date, then re-tests them._
 _Tutor's free-form notes: learner preferences, pace, things that worked, things to revisit._
 
 * 2026-10-03 — Course set up. Learner starts with Lesson 1.
+* 2026-10-03 — Learner records voice answers (m4a). Repo is public → audio not committed pending approval.

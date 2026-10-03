@@ -66,6 +66,7 @@ curriculum/ROADMAP.md   ← the master syllabus, beginner → C1
 lessons/                ← lesson files, by stage (+ _TEMPLATE.md)
 reference/              ← alphabet chart, sound-rules cheat sheet, resources
 vocabulary/             ← Anki flashcards, one file per lesson
+recordings/             ← voice-recording log + benchmarks (audio stays local unless you approve)
 tools/                  ← check_text.py (QA for Cyrillic), export_anki.py
 .claude/commands/       ← /lesson and /review
 ```
